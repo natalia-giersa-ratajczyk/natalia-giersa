@@ -1,6 +1,6 @@
 ## 🌞 About me:
 
-👋 Hi, I'm Natalia, a passionate frontend developer from Poland.
+👋 Hi, I'm Natalia, a passionate front-end developer from Poland.
 
 - 🔭 I’m currently working on **polishing my skills.**
 
